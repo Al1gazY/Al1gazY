@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working in Atlas Soft<br>🤝 I’m looking for help with iOS Development<br>🌱 I’m currently learning Swift<br>⚡ Fun fact - I love Pizza 🍕 
+🔭 I’m currently working in 13 LAB<br>🤝 I’m looking for help with iOS Development<br>🌱 I’m currently learning Swift<br>⚡ Fun fact - I love Pizza 🍕 
 
 
 ## 🌐 Socials:
