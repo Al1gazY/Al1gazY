@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working in 13 LAB<br>🤝 I’m looking for help with iOS Development<br>🌱 I’m currently learning Swift<br>⚡ Fun fact - I love Pizza 🍕 
+🔭 Current Mission: Exploring the uncharted territories of 13 LAB, where innovation meets imagination!<br>🤝 Seeking Sidekick: In quest of a tech-savvy iOS Development hero to join forces in creating digital wonders.<br>🌱 Growth Path: Currently nurturing my skills in Swift - it's like learning a new language, only cooler!<br>⚡ Did You Know? My creative fuel is Pizza 🍕 - the cheesier, the better!
 
 
 ## 🌐 Socials:
