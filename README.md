@@ -26,8 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Al1gazY&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Proudly crafted with passion and pizza! 🍕
-
----
+<em>Proudly crafted with passion and pizza! 🍕</em>
 
 
