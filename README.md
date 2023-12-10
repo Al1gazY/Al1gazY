@@ -2,7 +2,7 @@
 # Hello there! I'm Aligazy, a student from Canada 🇨🇦
 
 ## 💫 About Me:
-🔭 Current Mission: Exploring the uncharted territories of 13 LAB 🏢, where innovation meets imagination!<br>📚 Studying Mobile Application Development 📱 at Fanshawe College.<br>🌱 Growth Path: Currently nurturing my skills in Swift 🧑🏻‍💻 - it's like learning a new language, only cooler!<br>⚡ Did You Know? My creative fuel is Pizza 🍕 - the cheesier, the better!
+🔭 Current Mission: Exploring the uncharted territories of 13 LAB 🏢, where innovation meets imagination!<br>📚 Studying ***Mobile Application Development*** 📱 at Fanshawe College.<br>🌱 Growth Path: Currently nurturing my skills in Swift 🧑🏻‍💻 - it's like learning a new language, only cooler!<br>⚡ Did You Know? My creative fuel is Pizza 🍕 - the cheesier, the better!
 
 
 ## 🌐 Let's Connect:
