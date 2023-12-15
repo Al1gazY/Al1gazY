@@ -10,7 +10,10 @@
 
 # 💻 My Tech Arsenal:
 
-### Platforms & Languages: ![iOS](https://img.shields.io/badge/iOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=objective-c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### Platforms & Languages: ![iOS](https://img.shields.io/badge/iOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) <img src="https://img.shields.io/badge/SwiftUI-FF4500?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"> ![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=objective-c&logoColor=white) <img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxSwift"> <img src="https://img.shields.io/badge/Core%20Data-5722A8?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"> 
+
+
+
 
 ### Development Tools & Environments: ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
